@@ -1,0 +1,12 @@
+*{
+    font-style: italic;
+    background: burlywood;
+}
+p{
+    color: gray;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:antiquewhite;
+}
